@@ -1,0 +1,21 @@
+nav{
+    background-image: url(https://t4.ftcdn.net/jpg/01/97/88/03/360_F_197880340_iQ25pvZqvQDSzLHlf1Wh2XLeI42qPxNy.jpg);
+}
+
+h2{
+    background-color: rgba(139, 0, 139, 0.323);
+    font-family: initial;
+}
+
+body{
+    background-image:url(https://st4.depositphotos.com/15076736/21688/i/450/depositphotos_216883912-stock-photo-abstract-pastel-soft-colorful-smooth.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div{
+    background-color: burlywood;
+}
+footer{
+    background-color: rgba(255, 248, 220, 0.681);
+}

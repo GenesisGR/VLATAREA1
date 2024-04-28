@@ -1,0 +1,21 @@
+h1{
+    background-color: rgba(0, 255, 255, 0.707);
+    font-family: cursive;
+}
+body{
+    background-image:url(https://st4.depositphotos.com/15076736/21688/i/450/depositphotos_216883912-stock-photo-abstract-pastel-soft-colorful-smooth.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+footer{
+    background-color: rgba(255, 248, 220, 0.681);
+}
+
+div{
+    background-color: rgba(253, 240, 255, 0.434);
+}
+    
+nav{
+    background-image: url(https://t4.ftcdn.net/jpg/01/97/88/03/360_F_197880340_iQ25pvZqvQDSzLHlf1Wh2XLeI42qPxNy.jpg);
+}

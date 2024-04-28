@@ -1,0 +1,22 @@
+nav{
+    background-image: url(https://t4.ftcdn.net/jpg/01/97/88/03/360_F_197880340_iQ25pvZqvQDSzLHlf1Wh2XLeI42qPxNy.jpg);
+}
+
+body{
+    background-image:url(https://st4.depositphotos.com/15076736/21688/i/450/depositphotos_216883912-stock-photo-abstract-pastel-soft-colorful-smooth.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+p{
+    background-color: rgba(137, 43, 226, 0.275);
+    font-family: cursive;
+
+}   
+ol{
+    background-color: rgba(0, 0, 0, 0.159);
+}
+
+footer{
+    background-color: rgba(255, 248, 220, 0.681);
+}
